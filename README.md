@@ -5,10 +5,10 @@
 
 ## Перелік лабораторних робіт
 
-1. [WebGoat — Hijack a Session](01-webgoat-hijack-session/)
-2. [WebGoat — Insecure Direct Object References](02-webgoat-idor/)
-3. [WebGoat — SQL Injection Intro](03-webgoat-sql-injection-intro/)
-4. [OWASP Juice Shop](04-owasp-juice-shop/)
+1. [WebGoat — Hijack a Session](./WebGoat-Hijack-Session/)
+2. [WebGoat — Insecure Direct Object References](./WebGoat-Insecure%20Direct%20Object%20References/)
+3. [WebGoat — SQL Injection Intro](./WebGoat%20-%20SQL_intro/)
+4. [OWASP Juice Shop](./Juice%20Shop/)
 
 ## Використане програмне забезпечення
 
