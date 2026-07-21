@@ -9,6 +9,7 @@
 2. [WebGoat — Insecure Direct Object References](./WebGoat-Insecure%20Direct%20Object%20References/)
 3. [WebGoat — SQL Injection Intro](./WebGoat%20-%20SQL_intro/)
 4. [OWASP Juice Shop](./Juice%20Shop/)
+5. [CTF VulnHub — Deathnote](./CTF-DeathNote/)
 
 ## Використане програмне забезпечення
 
