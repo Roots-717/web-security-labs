@@ -10,6 +10,7 @@
 3. [WebGoat — SQL Injection Intro](./WebGoat%20-%20SQL_intro/)
 4. [OWASP Juice Shop](./Juice%20Shop/)
 5. [CTF VulnHub — Deathnote](./CTF-DeathNote/)
+6. [CTF VulnHub — C0ldd](./CTF-C0LDD/)
 
 ## Використане програмне забезпечення
 
